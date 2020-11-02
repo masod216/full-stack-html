@@ -1,0 +1,71 @@
+body{
+    background-image: url(pic.png);
+    background-size: cover;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+h1{
+    color: white;
+}
+.simple-form{
+    text-align: center;
+    margin: 100px 400px;
+}
+
+#registration{
+    width: 100%;
+    padding: 50px 0px;
+}
+
+#button{
+    width: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    outline: 0px ;
+}
+
+#ph{
+    outline: 0px;
+    width: 50px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#phone{
+    width: 200px;
+    padding: 10px;
+    border-radius: 5px;
+    outline: 0px;
+}
+
+#but{
+    color: white;
+    font-size: 18px;
+}
+
+#country{
+    width: 200px;
+    padding: 10px;
+    border-radius: 5px;
+    outline: 0px;
+}
+#butt{
+    width: 250px;
+    padding: 10px;
+    border-radius: 5px;
+    outline: 0px;
+    background-color: #0c6996;
+    border: 2px solid #01010c;
+    color: aliceblue;
+    font-size: 18px;
+}
+
+#footer{
+    background: black;
+    color: white;
+    padding: 12px;
+    text-align: center;
+    font-size: 20px;
+}
+
