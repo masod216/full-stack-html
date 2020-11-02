@@ -1,0 +1,22 @@
+#divId01{
+    height: 300px;
+    width: 300px;
+    border: blue solid 5px;
+    border-radius: 200px;
+    background-image: url(https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2017/11/04133712/waterfall.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.h101{
+    height:90px;
+    width: 220px;
+    border: blue solid 10px;
+    border-radius: 100px;
+    background-image: url(https://s3-us-west-2.amazonaws.com/uw-s3-cdn/wp-content/uploads/sites/6/2017/11/04133712/waterfall.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: red;
+}
+.aClass{
+    border-color: red !important;
+}

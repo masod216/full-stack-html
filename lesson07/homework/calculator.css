@@ -1,0 +1,48 @@
+body{
+    background-color: black;
+}
+button{
+cursor: pointer;
+width: 97px;
+height: 95.9px;
+margin-bottom: 4.7px;
+font-size: 40px;
+background-color: rgb(51, 50, 50);
+border:black solid 10px;
+border-top-left-radius: 50%;
+border-top-right-radius: 50%;
+border-bottom-left-radius: 50%;
+border-bottom-right-radius: 50%;
+color: white ;
+z-index: 2;
+}
+#Calculator{
+    border:black solid 2px;
+    border-radius: 1px;
+    height: 600px;
+    width: 400px;
+    margin: 300px;
+    background: linear-gradient(to bottom, whblack );
+    z-index: 1;
+}
+#space{
+width:400px;
+border-radius: 0%;
+cursor: wait;
+text-align: left;
+}
+.Arithmeticoperations{
+    color: blanchedalmond;
+    background-color: orange;
+}
+.Arithmeticoperations2{
+    background-color: rgb(161, 161, 161);
+    color: black;
+}
+#num_0{
+color: white;
+width: 197px;
+border-radius: 45%;
+border-top-left-radius: 45%;
+}
+
